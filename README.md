@@ -2,6 +2,11 @@
 
 This repository contains the smart contracts source code for Gearbox Protocol V2.
 
+## Installation
+
+1. Build dependencies with `yarn`
+2. Compile contracts to get types with `yarn build`
+
 ## Disclaimer
 
 This application is provided "as is" and "with all faults." Me as developer makes no representations or
